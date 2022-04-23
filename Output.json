@@ -1,0 +1,14 @@
+{
+    "monitor":{
+        "color":["black", "maroon", "white"],
+        "size":["large", "optimal", "small"]
+    },
+    "speakers":{
+        "color":["black", "maroon", "white"],
+        "size":["large", "optimal", "small"]
+    },
+    "headphones":{
+        "color":["black", "maroon", "white"],
+        "size":["large", "optimal", "small"]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "mouse":{
+        "color":["black", "maroon", "white"],
+        "size":["large", "optimal", "small"]
+    },
+    "keyboard":{
+        "color":["black", "maroon", "white"],
+        "size":["large", "optimal", "small"]
+    },
+    "microphone":{
+        "color":["black", "maroon", "white"],
+        "size":["large", "optimal", "small"]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Quebec city":{
+        "style":["rock", "classic", "lector"],
+        "artist":["a1", "a2", "a3"]
+    },
+    "Halifax":{
+        "style":["rock", "classic", "lector"],
+        "artist":["a1", "a2", "a3"]
+    },
+    "Squamish":{
+        "style":["rock", "classic", "lector"],
+        "artist":["a1", "a2", "a3"]
+    }
+    
+}

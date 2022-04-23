@@ -1,0 +1,14 @@
+{
+    "cpu":{
+        "color":["black", "maroon", "white"],
+        "size":["large", "optimal", "small"]
+    },
+    "videocard":{
+        "color":["black", "maroon", "white"],
+        "size":["large", "optimal", "small"]
+    },
+    "motherboard":{
+        "color":["black", "maroon", "white"],
+        "size":["large", "optimal", "small"]
+    }
+}

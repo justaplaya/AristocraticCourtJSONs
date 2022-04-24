@@ -1,5 +1,6 @@
 {
     "Quebec city":{
+        "id":1,
         "name":"Quebec city",
         "description":"Magnificent city on the river",
         "style":["rock", "classic", "lector"],

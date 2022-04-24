@@ -1,15 +1,18 @@
 {
     "Quebec city":{
+        "name":"Quebec city",
         "description":"Magnificent city on the river",
         "style":["rock", "classic", "lector"],
         "artist":["a1", "a2", "a3"]
     },
     "Halifax":{
+        "name":"Halifax",
         "description":"Harsh sailors city on a coast of Atlantic",
         "style":["rock", "classic", "lector"],
         "artist":["a1", "a2", "a3"]
     },
     "Squamish":{
+        "name":"Squamish",
         "description":"Quiet village in the rocky mountains of British Columbia",
         "style":["rock", "classic", "lector"],
         "artist":["a1", "a2", "a3"]

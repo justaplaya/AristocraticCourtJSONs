@@ -1,13 +1,16 @@
 {
     "mouse":{
+        "name":"mouse",
         "color":["black", "maroon", "white"],
         "size":["large", "optimal", "small"]
     },
     "keyboard":{
+        "name":"keyboard",
         "color":["black", "maroon", "white"],
         "size":["large", "optimal", "small"]
     },
     "microphone":{
+        "name":"microphone",
         "color":["black", "maroon", "white"],
         "size":["large", "optimal", "small"]
     }

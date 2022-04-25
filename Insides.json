@@ -1,13 +1,16 @@
 {
     "cpu":{
+        "name":"cpu",
         "color":["black", "maroon", "white"],
         "size":["large", "optimal", "small"]
     },
     "videocard":{
+        "name":"videocard",
         "color":["black", "maroon", "white"],
         "size":["large", "optimal", "small"]
     },
     "motherboard":{
+        "name":"motherboard",
         "color":["black", "maroon", "white"],
         "size":["large", "optimal", "small"]
     }

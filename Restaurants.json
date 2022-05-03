@@ -1,0 +1,62 @@
+{
+    "Quebec city":{
+        "bar":{
+            "name":"Quebec bar",
+            "type":"bar",
+            "style":"Nu metal",
+            "artist":"Linkin Park"
+        },
+        "restaurant":{
+            "name":"Quebec restaurant",
+            "type":"restaurant",
+            "style":"Vocal symphony",
+            "artist":"Symphonieorchester of Quebec city"
+        },
+        "cafe":{
+            "name":"Quebec cafe",
+            "type":"cafe",
+            "style":"Sociologist",
+            "artist":"Ekaterina Shulman"
+        }
+    },
+    "Halifax":{
+        "bar":{
+            "name":"Halifax bar",
+            "type":"bar",
+            "style":"Indie rock",
+            "artist":"Imagine Dragons"
+        },
+        "restaurant":{
+            "name":"Halifax restaurant",
+            "type":"restaurant",
+            "style":"Triple concert",
+            "artist":"Trio orchester of Halifax"
+        },
+        "cafe":{
+            "name":"Halifax cafe",
+            "type":"cafe",
+            "style":"Economist",
+            "artist":"Sergey Guriev"
+        }
+    },
+    "Squamish":{
+        "bar":{
+            "name":"Squamish bar",
+            "type":"bar",
+            "style":"Punk rock",
+            "artist":"Green Day"
+        },
+        "restaurant":{
+            "name":"Squamish restaurant",
+            "type":"restaurant",
+            "style":"Chaconne",
+            "artist":"Squamish people's orchester"
+        },
+        "cafe":{
+            "name":"Squamish cafe",
+            "type":"cafe",
+            "style":"Political scientist",
+            "artist":"Boris Prokudin"
+        }
+    }
+}

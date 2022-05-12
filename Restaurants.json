@@ -10,7 +10,7 @@
             "centerSeats":[1,2,3,4,5,6,7,8],
             "occupiedCenterSeats":[2,7],
             "barSeats":[1,2,3,4,5,6],
-            "occupiedBarSeats":[4,6],
+            "occupiedBarSeats":[4,6]
         },
         "restaurant":{
             "name":"Quebec restaurant",

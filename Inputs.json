@@ -1,20 +1,20 @@
 {
     "mouse":{
-        "name":"mouse",
-        "color":["black", "maroon", "white"],
-        "size":["large", "optimal", "small"],
+        "name":"Mouse",
+        "color":["Black", "Maroon", "White"],
+        "size":["Large", "Optimal", "Small"],
         "cost":1
     },
     "keyboard":{
-        "name":"keyboard",
-        "color":["black", "maroon", "white"],
-        "size":["large", "optimal", "small"],
+        "name":"Keyboard",
+        "color":["Black", "Maroon", "White"],
+        "size":["Large", "Optimal", "Small"],
         "cost":2
     },
     "microphone":{
-        "name":"microphone",
-        "color":["black", "maroon", "white"],
-        "size":["large", "optimal", "small"],
+        "name":"Microphone",
+        "color":["Black", "Maroon", "White"],
+        "size":["Large", "Optimal", "Small"],
         "cost":3
     }
 }

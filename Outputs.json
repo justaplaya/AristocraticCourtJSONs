@@ -1,20 +1,20 @@
 {
     "monitor":{
-        "name":"monitor",
-        "color":["black", "maroon", "white"],
-        "size":["large", "optimal", "small"],
+        "name":"Monitor",
+        "color":["Black", "Maroon", "White"],
+        "size":["Large", "Optimal", "Small"],
         "cost":4
     },
     "speakers":{
-        "name":"speakers",
-        "color":["black", "maroon", "white"],
-        "size":["large", "optimal", "small"],
+        "name":"Speakers",
+        "color":["Black", "Maroon", "White"],
+        "size":["Large", "Optimal", "Small"],
         "cost":5
     },
     "headphones":{
-        "name":"headphones",
-        "color":["black", "maroon", "white"],
-        "size":["large", "optimal", "small"],
+        "name":"Headphones",
+        "color":["Black", "Maroon", "White"],
+        "size":["Large", "Optimal", "Small"],
         "cost":6
     }
 }

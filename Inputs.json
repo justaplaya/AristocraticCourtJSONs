@@ -2,8 +2,8 @@
     "mouse":{
         "name":"mouse",
         "custom":{
-        "color":["black", "maroon", "white"],
-        "size":["large", "optimal", "small"]
+        "sensor":["optical led", "optical laser", "laser"],
+        "dpi resolution":["800-1200", "1200-4000", "4000+"]
         },
         "cost":1
     },

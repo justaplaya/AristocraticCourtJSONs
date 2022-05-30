@@ -1,20 +1,26 @@
 {
     "cpu":{
         "name":"cpu",
+        "custom":{
         "color":["black", "maroon", "white"],
-        "size":["large", "optimal", "small"],
+        "size":["large", "optimal", "small"]
+        },
         "cost":7
     },
     "videocard":{
         "name":"videocard",
+        "custom":{
         "color":["black", "maroon", "white"],
-        "size":["large", "optimal", "small"],
+        "size":["large", "optimal", "small"]
+        },
         "cost":8
     },
     "motherboard":{
         "name":"motherboard",
+        "custom":{
         "color":["black", "maroon", "white"],
-        "size":["large", "optimal", "small"],
+        "size":["large", "optimal", "small"]
+        },
         "cost":9
     }
 }

@@ -5,8 +5,8 @@
         "sensor":["optical led", "optical laser", "laser"],
         "dpi resolution":["800-1200", "1200-4000", "4000+"],
         "descriptions":[
-        'sensor description',
-        'dpi description'
+        "sensor description",
+        "dpi description"
         ]
         },
         "cost":1

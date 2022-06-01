@@ -1,5 +1,5 @@
 {
-    "Quebec city":{
+    "Иваново":{
         "bar":{
             "name":"Quebec bar",
             "type":"bar",
@@ -46,7 +46,7 @@
             "centerPrice":1
         }
     },
-    "Halifax":{
+    "Ярославль":{
         "bar":{
             "name":"Halifax bar",
             "type":"bar",
@@ -93,7 +93,7 @@
             "centerPrice":1
         }
     },
-    "Squamish":{
+    "Тихорецк":{
         "bar":{
             "name":"Squamish bar",
             "type":"bar",

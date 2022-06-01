@@ -1,24 +1,24 @@
 {
-    "Quebec city":{
-        "name":"Quebec city",
-        "description":"Magnificent city on the river",
+    "Иваново":{
+        "name":"Иваново",
+        "description":"Текстильная столица РФ",
         "style":["rock", "classic", "lector"],
         "artist":["a1", "a2", "a3"],
-        "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/bird.jpg"
+        "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/Ivanovo.jpg"
     },
-    "Halifax":{
-        "name":"Halifax",
-        "description":"Harsh sailors city on a coast of Atlantic",
+    "Ярославль":{
+        "name":"Ярославль",
+        "description":"Столица «Золотого кольца»",
         "style":["rock", "classic", "lector"],
         "artist":["a1", "a2", "a3"],
-        "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/bird.jpg"
+        "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/Yaroslavl.jpg"
     },
-    "Squamish":{
-        "name":"Squamish",
-        "description":"Quiet village in the rocky mountains of British Columbia",
+    "Тихорецк":{
+        "name":"Тихорецк",
+        "description":"ПГТ в Краснодарском крае",
         "style":["rock", "classic", "lector"],
         "artist":["a1", "a2", "a3"],
-        "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/bird.jpg"
+        "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/Tikhoretsk.jpg"
     
     }
 }

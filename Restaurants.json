@@ -1,9 +1,9 @@
 {
     "Иваново":{
         "bar":{
-            "name":"Quebec bar",
+            "name":"«Ивановский жених»",
             "type":"bar",
-            "style":"Сооснователь Google",
+            "style":"сооснователь Google",
             "artist":"Сергей Брин",
             "vipSeats":[1,2,3,4],
             "occupiedVipSeats":[1,3],
@@ -16,9 +16,9 @@
             "centerPrice":1
         },
         "restaurant":{
-            "name":"Quebec restaurant",
+            "name":"«У Гвидо»",
             "type":"restaurant",
-            "style":"Создатель Python",
+            "style":"создатель Python",
             "artist":"Гвидо ван Россум",
             "vipSeats":[1,2,3,4],
             "occupiedVipSeats":[1,3],
@@ -31,9 +31,9 @@
             "centerPrice":1
         },
         "cafe":{
-            "name":"Quebec cafe",
+            "name":"Приземлённый журавль»",
             "type":"cafe",
-            "style":"Основатель Facebook, Instagram и WhatsApp",
+            "style":"основатель Facebook, Instagram и WhatsApp",
             "artist":"Марк Цукерберг",
             "vipSeats":[1,2,3,4],
             "occupiedVipSeats":[1,3],
@@ -48,9 +48,9 @@
     },
     "Ярославль":{
         "bar":{
-            "name":"Halifax bar",
+            "name":"«Ярославская звёздочка»",
             "type":"bar",
-            "style":"Эксперт в области JavaScript и создатель jQuery",
+            "style":"эксперт в области JavaScript и создатель jQuery",
             "artist":"Джон Резиг",
             "vipSeats":[1,2,3,4],
             "occupiedVipSeats":[1,3],
@@ -63,9 +63,9 @@
             "centerPrice":1
         },
         "restaurant":{
-            "name":"Halifax restaurant",
+            "name":"«Живучий Билл»",
             "type":"restaurant",
-            "style":"Основатель Microsoft",
+            "style":"основатель Microsoft",
             "artist":"Билл Гейтс",
             "vipSeats":[1,2,3,4],
             "occupiedVipSeats":[1,3],
@@ -78,9 +78,9 @@
             "centerPrice":1
         },
         "cafe":{
-            "name":"Halifax cafe",
+            "name":"«Чистое сердце»",
             "type":"cafe",
-            "style":"Автор книги «Чистый код»",
+            "style":"автор книги «Чистый код»",
             "artist":"Роберт Мартин",
             "vipSeats":[1,2,3,4],
             "occupiedVipSeats":[1,3],
@@ -95,9 +95,9 @@
     },
     "Тихорецк":{
         "bar":{
-            "name":"Squamish bar",
+            "name":"«Краснодарская вспышка»",
             "type":"bar",
-            "style":"Основатель Apple",
+            "style":"основатель Apple",
             "artist":"Стив Джобс",
             "vipSeats":[1,2,3,4],
             "occupiedVipSeats":[1,3],
@@ -110,9 +110,9 @@
             "centerPrice":1
         },
         "restaurant":{
-            "name":"Squamish restaurant",
+            "name":"«Тихорецкий уголок»",
             "type":"restaurant",
-            "style":"Сооснователь Google",
+            "style":"сооснователь Google",
             "artist":"Ларри Пейдж",
             "vipSeats":[1,2,3,4],
             "occupiedVipSeats":[1,3],
@@ -125,9 +125,9 @@
             "centerPrice":1
         },
         "cafe":{
-            "name":"Squamish cafe",
+            "name":"«У Линуса»",
             "type":"cafe",
-            "style":"Создатель Linux",
+            "style":"создатель Linux",
             "artist":"Линус Торвальдс",
             "vipSeats":[1,2,3,4],
             "occupiedVipSeats":[1,3],

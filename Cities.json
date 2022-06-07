@@ -2,22 +2,16 @@
     "Иваново":{
         "name":"Иваново",
         "description":"Текстильная столица РФ",
-        "style":["rock", "classic", "lector"],
-        "artist":["a1", "a2", "a3"],
         "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/Ivanovo.jpg"
     },
     "Ярославль":{
         "name":"Ярославль",
         "description":"Столица «Золотого кольца»",
-        "style":["rock", "classic", "lector"],
-        "artist":["a1", "a2", "a3"],
         "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/Yaroslavl.jpg"
     },
     "Тихорецк":{
         "name":"Тихорецк",
         "description":"ПГТ в Краснодарском крае",
-        "style":["rock", "classic", "lector"],
-        "artist":["a1", "a2", "a3"],
         "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/Tikhoretsk.jpg"
     
     }

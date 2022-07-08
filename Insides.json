@@ -1,37 +1,37 @@
 {
-    "Процессор":{
-        "name":"Процессор",
+    "Шарлотка":{
+        "name":"Шарлотка",
         "custom":{
-        "Тактовая частота":["< 2.5 ГГц", "2.5 ГГц — 3.5 ГГц", "> 3.5 ГГц"],
-        "Число потоков":["2 — 6", "6 — 10", "10 — 14"],
+        "Начинка":["Яблоко", "Апельсин", "Лайм + мята"],
+        "Сироп":["Шоколад", "Кленовый", "Без"],
         "descriptions":[
-        "Измеряется в гигагерцах(ГГц). Скорость с которой работает процессор, соответственно, чем выше, тем быстрее. Большинство современных процессоров самостоятельно управляют своей тактовой частотой в зависимости от задачи и температуры. Поэтому здесь вы можете увидеть 2 значения: нижнее и верхнее (турбо буст).",
-        "Число потоков — это количество процессов, с которыми процессор может работать одновременно. Многие процессоры, имеющие многопоточность, могут создавать по два потока на каждое физическое ядро. Для процессоров Intel это называется Hyper-Threading (гипертрейдинг), а для AMD- SMT (одновременная много поточность). Естественно, чем больше потоков, тем лучше многозадачность и выше производительность в программах с большим числом потоков, таких как редакторы видео."
-        ]
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?"
+            ]
         },
         "cost":7
     },
-    "Видеокарта":{
-        "name":"Видеокарта",
+    "Медовик":{
+        "name":"Медовик",
         "custom":{
-        "Частота GPU":["1100 — 1500 МГц", "1500 — 1900 МГц", "1900 — 2300 МГц"],
-        "Ширина шины":["64 — 192 бит", "192 — 320 бит", "320 — 512 бит"],
+        "Крошка":["Шоколадная", "Цитрусовая", "Песочная"],
+        "Крем":["Взбитые сливки", "Медовый", "Шоколадный"],
         "descriptions":[
-        "В зависимости от этого показателя определяется базовая скорость и обработки картинки и загруженность центрального процессора. Чем выше частота GPU, тем выше производительность графического процессора, обрабатывающего данные за минимальное время.",
-        "Ширина шины — главный параметр, влияющий на производительность компьютера. В зависимости от ширины шины определяется количество информации, которое обрабатывает плата за единицу времени."
-        ]
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?"
+            ]
         },
         "cost":8
     },
-    "Материнская плата":{
-        "name":"Материнская плата",
+    "Горячий шоколад":{
+        "name":"Горячий шоколад",
         "custom":{
-        "Количество слотов памяти":["2", "4", "8"],
-        "Тип поддерживаемой памяти":["DDR3", "DDR4", "DDR5"],
+        "Закуска":["Солёный крекер", "Жареный миндаль", "Вяленые яблоки"],
+        "Сироп":["Взбитые сливки", "Кленовый", "Без"],
         "descriptions":[
-        "Чем больше слотов памяти, тем больше HDD/SSD-дисков можно подключить к компьютеру. Их количество также немаловажно и потому, что, к примеру, 2 диска на 4 Гб работают быстрее 1 на 8 Гб.",
-        "Чем выше версия оперативной памяти(DDR), тем выше скорость её работы. К примеру, официально спецификация DDR3 начинается со скорости в 800 МГц (800 миллионов тактов в секунду) и заканчивается на скорости в 2133 МГц. Некоторые модули DDR3 достигли разгона в 3200 МГЦ и более, но это неофициально. Тем временем DDR4 начинается с 1600 МГц и заканчивается на 3200 МГц, а разогнанные наборы памяти достигают 4800 МГц."
-        ]
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?"
+            ]
         },
         "cost":9
     }

@@ -1,37 +1,37 @@
 {
-    "Монитор":{
-        "name":"Монитор",
+    "Борщ с добавкой":{
+        "name":"Борщ с добавкой",
         "custom":{
-        "Тип матрицы":["TN", "IPS", "MVA/VA"],
-        "Частота обновления экрана":["60 — 120 Гц", "120 — 180 Гц", "180 — 240 Гц"],
+        "Добавка":["С гренками", "С грибами", "С фрикадельками"],
+        "Сметана":["Да", "Нет"],
         "descriptions":[
-            "TN: матрица обладает плохими углами обзора, низкой максимальной яркостью, контрастность и цветопередача также хромают. Однако, их неоспоримым плюсом является высокое время отклика, речь сейчас идет о мониторах с частотой обновления кадров от 200 и выше Гц. Эти мониторы обладают откровенной плохой картинкой, но пользуются популярностью у профессиональных геймеров. IPS: эти матрицы с превосходной цветопередачей и отличной контрастностью. Также этот тип матриц имеет широкие углы обзора, которые достигают до 178 градусов, что действительно много. В не таком далеком прошлом эти матрицы имели один существенный минус, а именно — высокое время отклика. Однако сейчас технологии развиваются стремительно, и конструкторы создали ответвление от этого типа матрицы. Новая модификация носит название AH-IPS. В ней еще лучше поработали над цветопередачей, разрешением, а также PPI. Дополнительно конструкторам удалось снизить энергопотребление и увеличить максимально возможную яркость. А самое главное — время отклика теперь составляет около 5-6 мс. MVA/VA: эти матрицы по характеристикам являются своего рода компромиссом между IPS и TN матрицами. Итак, плюсом MVA/VA в сравнении с TN матрицами, являются повышенные углы обзора. Если сравнить MVA/VA с IPS матрицами, то их плюсом является улучшенная контрастность. А вот самый главный минус этого типа матриц является большое время отклика, которое может в определенных ситуациях нарастать.",
-            "Эта величина показывает, сколько раз за одну секунду монитор способен перерисовать картинку, то есть обновить кадр. Здесь все довольно просто, чем больше частота обновления, тем лучше, приятнее и плавнее будет картинка выдаваемая монитором. Для лучшего понимания рассмотрим небольшой пример. Если у вас монитор с частотой обновления 60 Гц, значит за одну секунду, он способен обновить 60 кадров, другими словами 60 FPS. Если даже ваша видеокарта способна корректно обработать 100-200 или более FPS, и при этом у вас будет установлен монитор с частотой обновления 60 Гц, как не крути, больше 60 FPS вы не увидите. Если вы позаботились о мощной видеокарте и других компонентах ПК, тогда и монитор следует приобретать с частотой обновления не менее 120 Гц, а при возможности и еще выше (144 иди 240 Гц)."
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?"
         ]
         },
         "cost":4
     },
-    "Колонки":{
-        "name":"Колонки",
+    "Картошка с маслом и зеленью":{
+        "name":"Картошка с маслом и зеленью",
         "custom":{
-        "Частота фазоинвертор":["20 — 60 Гц", "60 — 100 Гц", "100 —  140 Гц"],
-        "Материал динамика":["Бумага", "Полипропилен", "Кевлар"],
+        "Тип масла":["Подсолнечное", "Оливковое", "Сливочное"],
+        "Тип зелени":["Лук зелёный", "Укроп", "Кинза"],
         "descriptions":[
-            "Фазоинвертор — служит для улучшения басовых характеристик колонки. Имеет форму сквозной трубки, один конец которой плотно вставлен в отверстие в корпусе, при этом она находится внутри и не выходит наружу. Низкочастотная вибрация от корпуса + вибрация воздуха от движения динамика складываются вместе и создают бас определённой частоты. Фазоинверторы настроены на определённую частоту, на которой они могут выдать максимальную громкость баса. Этот параметр зависит от длины и толщины трубы фазоинвертора. Благодаря фазоинвертору, громкость той частоты, на которую он настроен, можно увеличить почти в 3 раза от громкости излучаемой самим динамиком!",
-            "Бумажный динамик (он же картоновый) – самый дешёвый вариант, который не обладает какими либо выдающимися характеристиками. Полипропиленовый динамик – отлично справляется со средним частотным диапазоном, и неплохо с низкочастотным. Является самым лёгким, что означает лучшую реакцию и более живое воспроизведение всего диапазона частот. Золотая середина между бумажным и кевларовым. Кевларовый динамик – имеет выдающиеся характеристики в низком диапазоне частот, и слабые в среднем диапазоне. Используется преимущественно для низкочастотных динамиков в трёх полосных системах и для динамиков сабвуферов в силу своей прочности."
-        ]
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?"
+            ]
         },
         "cost":5
     },
-    "Наушники":{
-        "name":"Наушники",
+    "Салат с добавкой":{
+        "name":"Салат с добавкой",
         "custom":{
-        "Конструкция":["Вставные", "Вакуумные", "Полноразмерные"],
-        "Чувствительность":["90 — 105 дБ", "105 — 120 дБ"],
+        "Основа":["Помидоры + огурцы", "Морская капуста + яйца + лук", "Кукуруза + колбаса + сыр"],
+        "Добавка":["Сметана", "Майонез", "Масло оливковое"],
         "descriptions":[
-        "Вставные: динамики вставляются непосредственно в ушную раковину, не имеют дополнительных прокладок. Вакуумные: также вставляются напрямую в уши, но эта конструкция ввиду полипропиленовой насадке на динамик имеет много бОльший объём звука и комфорт ношения. Полнорамерные: полностью облегают ушную раковину и предорставляют полное погружение в музыку и самый высокий комфорт из всех перечисленных конструкций",
-        "Давление или громкость звука измеряется в децибелах (дБ) и считается, что для человеческого уха 140 дБ — значение болевого порога."
-        ]
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?"
+            ]
         },
         "cost":6
     }

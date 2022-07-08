@@ -1,36 +1,36 @@
 {
-    "Мышь":{
-        "name":"Мышь",
+    "Чай с добавкой":{
+        "name":"Чай с добавкой",
         "custom":{
-        "Сенсор":["Оптический", "Лазерный"],
-        "DPI":["800-1200", "1200-4000", "4000+"],
+        "Сорт":["Зелёный", "Чёрный", "Каркаде"],
+        "Добавка":["Мята", "Лимон", "Чабрец"],
         "descriptions":[
-        "Оптический: состоит из излучателя, специального датчика и микросхемы, которые регистрируют скорость и направление перемещения компьютерной мыши. Оптические светодиодные мыши среднего уровня имеют разрешение от 800 до 1600 dpi и могут давать сбои при работе на стеклянных и тканевых поверхностях. Лазерный: в лазерных мышках подсветку создает лазерный инфракрасный диод. Тонкий луч передается через сенсор непосредственно на процессор. Инфракрасное излучение позволяет точно фокусироваться на плоскости с более мелкими неровностями, чем может воспринять устройство с обычным источником света.",
-        "Чем выше разрешение, тем большее расстояние пройдет курсор на экране относительно расстояния, которое мышь пройдет на поверхности. Современные мыши достигают показателя в 16000 DPI, однако высокое разрешение не означает высокую точность. Зачастую с излишком хватает и 1600 dpi, а игроки в шутерах предпочитают и гораздо меньшие показатели, такие как 800 или 1200 dpi потому что это дает более высокую точность прицеливания"
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
         ]
         },
         "cost":1
     },
-    "Клавиатура":{
-        "name":"Клавиатура",
+    "Кофе":{
+        "name":"Кофе с добавкой",
         "custom":{
-        "Принцип работы клавиш":["Механический", "Плаунжерный", "Ножничный"],
-        "Конструкция":["Эргономичная", "Игровая", "Мультимедийная"],
+        "Сорт":["Арабика", "Робуста", "Либерика"],
+        "Добавка":["Сливки", "Корица", "Лимон"],
         "descriptions":[
-        "Механический: если вы проводите много времени за компьютером, механическая клавиатура станет наилучшим выбором. Однако за счет особенности конструкции звук от нажатия клавиш у них обычно громкий, что вряд ли порадует членов вашей семьи, если вы будете работать ночью. Модели с тихими механическими переключателями стоят дороже классических и встречаются в продаже не так часто. Плаунжерный: Хотя в этих моделях и используется мембранная технология, но у каждой клавиши есть собственная пластиковая перемычка. Благодаря этому нажатие на нее становится более жестким, тактильные ощущения сходны с ощущением от кнопок механической клавиатуры. Работать с таким устройством более комфортно, чем с девайсом, использующим мембранную технологию. При этом звук от нажатия клавиш не такой громкий, как на механических аналогах. Если приходится много печатать или вы предпочитаете работать по ночам, рассмотрите покупку плунжерной клавиатуры. Ножничный: Подвид мембранной клавиатуры, который встречается в том числе в ноутбуках. Каждая клавиша в них оснащается специальным пластиковым механизмом-ножницами, что исключает ее перекос. Благодаря этому они лучше реагируют на нажатие, а их ход уменьшается.",
-        "Эргономичная: Клавиши расположены под обратным наклоном, что способствует более удобному положению кистей и позволяет набирать текст в течение долгого времени. Игровая: размер, расположение клавиш и форма самой клавиатуры спроектированы с учетом особенностей компьютерных игр. Некоторые кнопки выделяются яркими цветами, самые используемые клавиши укрепляются (как правило, это буквы W, A, S, D). Также на устройстве могут присутствовать дополнительные кнопки и порты для комфортного гейминга и подключения манипуляторов. Мультимедийная: благодаря дополнительным клавишам можно быстро управлять плеером при прослушивании музыки или просмотре видео, иногда есть возможность запускать некоторые приложения, например, браузер. Есть даже модели, которые оснащаются сенсорным диском — он позволяет быстро создавать диаграммы, настраивать яркость или менять кисти в Adobe Photoshop."
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
         ]
         },
         "cost":2
     },
-    "Микрофон":{
-        "name":"Микрофон",
+    "Травы":{
+        "name":"Травы",
         "custom":{
-        "Направленность":["Круговая", "Кардиоидная", "Гиперкардиоидная"],
-        "Чувствительность":["-80 — -60 дБ", "-60 — -40 дБ", "-40 — -20 дБ"],
+        "Вид":["Зверобой", "Ромашка", "Душица"],
+        "Температура":["Холодная", "Горячая", "Комнатная"],
         "descriptions":[
-        "Микрофон с круговой направленностью обладает равной чувствительностью к сигналам, поступающим к нему со всех сторон. Зачастую микрофон с круговой направленностью отличается низкой чувствительностью к звукам дыхания, и ему не свойственен 'эффект приближения'. Микрофоны с такой направленностью имеют более широкий низкочастотный диапазон по сравнению с другими, что очень актуально при работе с инструментами, выдающими много 'низких'. Кардиоидные микрофоны не воспринимают звук, идущий с тыльной стороны микрофона. Гиперкардиоидные микрофоны обеспечивают максимальную шумоизоляцию, наименее чувствительны к акустическому оформлению помещения, однако захватывают чуть больше звука, идущего с тыльной стороны микрофона (по сравнению с кардиоидными и суперкадиоидными микрофонами).",
-        "Чем ближе чувствительность к нулю, тем она выше. Микрофон с чувствительностью -40 дБ будет чувствительнее микрофона с показателем -50 дБ"
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse, quo debitis voluptatem nesciunt maxime omnis veniam quis inventore fuga perspiciatis dolores aliquam earum quia, vero dicta porro labore nulla nemo? Obcaecati dignissimos molestias, aliquid doloremque rerum soluta dolores eum illo similique quisquam debitis enim dolorem vel error. Distinctio, dolore deleniti?",
         ]
         },
         "cost":3

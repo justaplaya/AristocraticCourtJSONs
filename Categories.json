@@ -1,12 +1,15 @@
 {
     "categories":{
         "Напиток":{
+            "name":"Напиток",
             "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/webp/type1.webp"
         },
         "Блюдо":{
+            "name":"Блюдо",
             "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/webp/type2.webp"
         },
         "Десерт":{
+            "name":"Десерт",
             "photo":"https://raw.githubusercontent.com/justaplaya/AristocraticCourtJSONs/main/webp/type3.webp"
         }
     }

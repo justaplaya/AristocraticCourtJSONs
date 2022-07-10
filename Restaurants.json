@@ -1,8 +1,8 @@
 {
     "Иваново":{
-        "баре":{
+        "bar":{
             "name":"«Ивановский жених»",
-            "type":"баре",
+            "type":"bar",
             "style":"нью-метал",
             "artist":"Linkin Park",
             "vipSeats":[1,2,3,4],
@@ -15,9 +15,9 @@
             "barPrice":2,
             "centerPrice":1
         },
-        "ресторане":{
+        "restaurant":{
             "name":"«У Гвидо»",
-            "type":"ресторане",
+            "type":"restaurant",
             "style":"Тройной концерт",
             "artist":"Ивановское трио и камерный оркестр",
             "vipSeats":[1,2,3,4],
@@ -30,9 +30,9 @@
             "barPrice":2,
             "centerPrice":1
         },
-        "кафе":{
+        "cafe":{
             "name":"«Приземлённый журавль»",
-            "type":"кафе",
+            "type":"cafe",
             "style":"журналист",
             "artist":"Алексей Пивоваров",
             "vipSeats":[1,2,3,4],
@@ -47,9 +47,9 @@
         }
     },
     "Ярославль":{
-        "баре":{
+        "bar":{
             "name":"«Ярославская звёздочка»",
-            "type":"баре",
+            "type":"bar",
             "style":"инди-рок",
             "artist":"Imagine Dragons",
             "vipSeats":[1,2,3,4],
@@ -62,9 +62,9 @@
             "barPrice":2,
             "centerPrice":1
         },
-        "ресторане":{
+        "restaurant":{
             "name":"«Живучий Билл»",
-            "type":"ресторане",
+            "type":"restaurant",
             "style":"Вокальная симфония",
             "artist":"Ярославский симфонический оркестр",
             "vipSeats":[1,2,3,4],
@@ -77,9 +77,9 @@
             "barPrice":2,
             "centerPrice":1
         },
-        "кафе":{
+        "cafe":{
             "name":"«Чистое сердце»",
-            "type":"кафе",
+            "type":"cafe",
             "style":"Социолог",
             "artist":"Екатерина Шульман",
             "vipSeats":[1,2,3,4],
@@ -94,9 +94,9 @@
         }
     },
     "Тихорецк":{
-        "баре":{
+        "bar":{
             "name":"«Краснодарская вспышка»",
-            "type":"баре",
+            "type":"bar",
             "style":"панк-рок",
             "artist":"Green Day",
             "vipSeats":[1,2,3,4],
@@ -109,9 +109,9 @@
             "barPrice":2,
             "centerPrice":1
         },
-        "ресторане":{
+        "restaurant":{
             "name":"«Тихорецкий уголок»",
-            "type":"ресторане",
+            "type":"restaurant",
             "style":"чакона",
             "artist":"Тихорецкий народный оркестр",
             "vipSeats":[1,2,3,4],
@@ -124,9 +124,9 @@
             "barPrice":2,
             "centerPrice":1
         },
-        "кафе":{
+        "cafe":{
             "name":"«У Линуса»",
-            "type":"кафе",
+            "type":"cafe",
             "style":"политолог",
             "artist":"Борис Прокудин",
             "vipSeats":[1,2,3,4],
